@@ -32,9 +32,3 @@ This project demonstrates time series forecasting on Netflix (NFLX) stock data u
 - RMSE
 - MAE
 - R² Score
-
-## 📌 Notes
-
-- Make sure `NFLX.csv` exists at:  
-  `C:\Users\oport\OneDrive\Documents\NSPP\NFLX.csv`
-- You can customize the model or try more advanced ones like XGBoost or LSTM for better forecasting accuracy.
